@@ -1,7 +1,3 @@
-Here’s a **README.md** file template that you can use for your GitHub repository for the **Customer Churn Prediction** project. I've included all the essential sections, along with instructions for dataset usage.
-
----
-
 ## Customer Churn Prediction
 
 ### Project Overview
